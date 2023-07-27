@@ -63,8 +63,8 @@
     "lodash": "^4.17.4",
     "object-is": "^1.0.1",
     "object.assign": "^4.0.4",
-    "object.entries": "^1.0.4",
-    "object.values": "^1.0.4",
+    "object.entries": "https://github.com/b-ggs/Object.entries.git#v1.0.4-patched",
+    "object.values": "https://github.com/b-ggs/Object.values.git#v1.0.4-patched",
     "prop-types": "^15.5.10",
     "uuid": "^3.0.1"
   },
